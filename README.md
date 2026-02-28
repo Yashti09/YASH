@@ -15,26 +15,26 @@
        
  </tr> 
         <tr bgcolor="lightpink"align="center">  
-            <td>yogeshwari</td> 
-            <td>CS25260</td> 
+            <td>yugansh</td> 
+            <td>CS25234</td> 
             <td>D</td> 
             <td>PASS</td> 
         </tr> 
         <tr bgcolor="lightyellow" align="center"> 
-            <td>gaurav</td> 
-            <td>CS25480</td> 
+            <td>yash</td> 
+            <td>CS25235</td> 
             <td>D</td> 
             <td>PASS</td> 
         </tr> 
         <tr bgcolor="lightgreen"align="center"> 
-            <td>smita</td> 
-            <td>CS25100</td> 
+            <td>safi</td> 
+            <td>CS25236</td> 
             <td>D</td> 
             <td>PASS</td> 
         </tr> 
         <tr bgcolor="lightpink" align="center"> 
-            <td>Ravina</td> 
-            <td>CS25252</td> 
+            <td>rohit</td> 
+            <td>CS25222</td> 
             <td>D</td> 
             <td>PASS</td> 
         </tr> 
