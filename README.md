@@ -1,9 +1,8 @@
-# YASH
-<!DOCTYPE html> 
-<html lang="en"> 
+# YASH 
+<html> 
 <head> 
-    <meta charset="UTF-8"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">     <title>Document</title> 
+   <h1><b>Yash</b></h1>
+    <h2><b>CS25251</b></h2>
 </head> 
 <body> <h1><b><u><caption align="center"> student data</caption> </u></b></h1> 
     <table bgcolor="black" border="3px" > 
