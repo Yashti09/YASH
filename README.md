@@ -1,42 +1,40 @@
- <html> 
-<head> 
-   <h1><b>Yash</b></h1>
-    <h2><b>CS25251</b></h2>
-</head> 
-<body> <h1><b><u><caption align="center"> student data</caption> </u></b></h1> 
-    <table bgcolor="black" border="3px" > 
-        <tr bgcolor="skyblue"> 
-            <th width="150px">student name</th> 
-            <th width="150px">roll no </th> 
-            <th width="150px">Section</th> 
-            <th width="150px">Result</th> 
-       
- </tr> 
-        <tr bgcolor="lightpink"align="center">  
-            <td>yugansh</td> 
-            <td>CS25234</td> 
-            <td>D</td> 
-            <td>PASS</td> 
-        </tr> 
-        <tr bgcolor="lightyellow" align="center"> 
-            <td>yash</td> 
-            <td>CS25235</td> 
-            <td>D</td> 
-            <td>PASS</td> 
-        </tr> 
-        <tr bgcolor="lightgreen"align="center"> 
-            <td>safi</td> 
-            <td>CS25236</td> 
-            <td>D</td> 
-            <td>PASS</td> 
-        </tr> 
-        <tr bgcolor="lightpink" align="center"> 
-            <td>rohit</td> 
-            <td>CS25222</td> 
-            <td>D</td> 
-            <td>PASS</td> 
-        </tr> 
-    </table> 
-</body> 
-</html> 
- 
+<html>
+<head>
+<title align="center">Practical No. 3</title>
+</head>
+
+<h1 align="center"><u><i>Name : Vedanth L Pasulwark</i></u></h1>
+<h2 align="center"><u>CS25188</u></h2>
+
+<body bgcolor="lightblue">
+
+<ol type="numbers" align="center">
+    <h4><u><b>Top Students of sec "C"</b></u></h4>
+    <li>Ayan</li>
+    <li>Om</li>
+    <li>Ujjwal</li>
+    <li>Tushar</li>
+    <li>Vedanth</li>
+</ol>
+
+<dl>
+    <dd><b><i><u>Positive thing about Ssc C</u></i></b></dd>
+    <dd>Toppers</dd>
+    <dd>Interactive</dd>
+    <dd>Unity</dd>
+</dl>
+
+<marquee>scroll it!!!</marquee>
+
+<marquee direction="right">
+    <h3>Hello!!</h3>
+</marquee>
+
+<a href="vedanthwdl.html">click here!!</a>
+<br><br>
+
+<img src="C:\Users\loq\Downloads\aot img2.avif" align="center" width="350" height="250">
+<img src="C:\Users\loq\Downloads\aot img.jpg" align="center" width="350" height="250">
+
+</body>
+</html>
