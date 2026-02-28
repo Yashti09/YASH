@@ -1,40 +1,36 @@
-<html>
+<html lang="en">
 <head>
-<title align="center">Practical No. 3</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOOD SHOP</title>
 </head>
 
-<h1 align="center"><u><i>Name : Vedanth L Pasulwark</i></u></h1>
-<h2 align="center"><u>CS25188</u></h2>
-
 <body bgcolor="lightblue">
+</body>
 
-<ol type="numbers" align="center">
-    <h4><u><b>Top Students of sec "C"</b></u></h4>
-    <li>Ayan</li>
-    <li>Om</li>
-    <li>Ujjwal</li>
-    <li>Tushar</li>
-    <li>Vedanth</li>
-</ol>
+<body>
+    <marquee direction="left">fresh.Tasty.fast Delivery</marquee>
 
-<dl>
-    <dd><b><i><u>Positive thing about Ssc C</u></i></b></dd>
-    <dd>Toppers</dd>
-    <dd>Interactive</dd>
-    <dd>Unity</dd>
-</dl>
+    <h2 align="center" color="BLUE">Tasty Food Corner</h2>
+    <hr>
 
-<marquee>scroll it!!!</marquee>
+    <h3 align="center">Menu</h3>
 
-<marquee direction="right">
-    <h3>Hello!!</h3>
-</marquee>
+    <h2>Main Dishes</h2>
+    <ul>
+        <li>pizza</li>
+        <li>samose</li>
+        <li>sandwich</li>
+    </ul>
 
-<a href="vedanthwdl.html">click here!!</a>
-<br><br>
+    <h2>Desert</h2>
+    <ul>
+        <li>Gulab jamun</li>
+        <li>Rasgulla</li>
+        <li>cheesecake</li>
+    </ul>
 
-<img src="C:\Users\loq\Downloads\aot img2.avif" align="center" width="350" height="250">
-<img src="C:\Users\loq\Downloads\aot img.jpg" align="center" width="350" height="250">
-
+    <h3>Contact Us :</h3>
+    phone : 989763528
 </body>
 </html>
